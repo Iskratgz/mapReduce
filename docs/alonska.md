@@ -75,7 +75,7 @@ db.airports.mapReduce(map, red, {out: {inline: 1}});
 
 ### Wykres
 
-[typ]()
+[typ](https://github.com/Iskratgz/map-reduce/blob/master/images/alonska/typ.png)
 
 ## Liczba lotnisk na kontynentach
 
@@ -129,7 +129,7 @@ db.airports.mapReduce(map, red, {out: {inline: 1}});
 
 ### Wykres
 
-[kontynent]()
+[kontynent](https://github.com/Iskratgz/map-reduce/blob/master/images/alonska/kontynent.png)
 
 ## Liczba lotnisk w państwach
 
@@ -185,11 +185,11 @@ db.panstwo.find();
 
 ### Plik z pełnym wynikiem
 
-[panstwo.txt]()
+[panstwo.txt](https://github.com/Iskratgz/map-reduce/blob/master/data/alonska/panstwo.txt)
 
 ### Wykres
 
-[panstwo]()
+[panstwo](https://github.com/Iskratgz/map-reduce/blob/master/images/alonska/panstwo.png)
 
 ## Liczba lotnisk w regionach
 
@@ -235,9 +235,9 @@ db.region.find();
 
 ### Plik z pełnym wynikiem
 
-[region.txt]()
+[region.txt](https://github.com/Iskratgz/map-reduce/blob/master/data/alonska/region.txt)
 
 ### Wykres
 
-[region]()
+[region](https://github.com/Iskratgz/map-reduce/blob/master/images/alonska/region.png)
 
