@@ -29,7 +29,7 @@
 }
 ```
 
-## Ilość typów lotnisk
+## Liczba typów lotnisk
 
 ### Funkcja map
 
@@ -72,3 +72,83 @@ db.airports.mapReduce(map, red, {out: {inline: 1}});
 ```
 
 ### Wykres
+
+[typ]()
+
+## Liczba lotnisk na kontynentach
+
+### Funkcja map
+
+```
+```
+
+### Funkcja reduce
+
+```
+```
+
+### Przykładowe wywołanie
+
+```
+```
+
+### Wycinek wyniku
+
+```
+```
+
+### Wykres
+
+[typ]()
+
+## Liczba lotnisk w krajach
+
+### Funkcja map
+
+```
+```
+
+### Funkcja reduce
+
+```
+```
+
+### Przykładowe wywołanie
+
+```
+```
+
+### Wycinek wyniku
+
+```
+```
+
+### Wykres
+
+[typ]()
+
+## Liczba lotnisk w regionach
+
+### Funkcja map
+
+```
+```
+
+### Funkcja reduce
+
+```
+```
+
+### Przykładowe wywołanie
+
+```
+```
+
+### Wycinek wyniku
+
+```
+```
+
+### Wykres
+
+[typ]()
