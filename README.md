@@ -59,7 +59,7 @@ var red = function(key, values) {
 db.airports.mapReduce(map, red, {out: {inline: 1}});
 ```
 
-### Wycinek wyniku
+### Wynik
 
 ```
 { "_id" : {"typ" : "balloonport"}, "value" : {"count" : 17}}
@@ -99,7 +99,7 @@ db.airports.mapReduce(map, red, {out: {inline: 1}});
 
 ### Wykres
 
-[typ]()
+[kontynent]()
 
 ## Liczba lotnisk w krajach
 
@@ -125,7 +125,7 @@ db.airports.mapReduce(map, red, {out: {inline: 1}});
 
 ### Wykres
 
-[typ]()
+[kraj]()
 
 ## Liczba lotnisk w regionach
 
@@ -151,4 +151,4 @@ db.airports.mapReduce(map, red, {out: {inline: 1}});
 
 ### Wykres
 
-[typ]()
+[region]()
